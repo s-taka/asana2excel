@@ -1,0 +1,6 @@
+version: '3'
+services:
+  asana:
+    build: docker/.
+    volumes:
+      - /home/ubuntu/prj/asana2excel/:/opt

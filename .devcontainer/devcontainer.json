@@ -1,0 +1,8 @@
+{
+    "name": "asana_excel",
+    "service": "asana",
+    "dockerComposeFile": [
+        "../docker-compose.yml"
+    ],
+    "workspaceFolder": "/opt"
+}
