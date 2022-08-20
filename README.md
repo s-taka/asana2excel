@@ -14,3 +14,5 @@ Example
   - test/sample.csv: Asanaからexportしたcsvファイル（依存関係を取得するために使用）
   - test/out.xlsx: 出力するファイル
 
+出力されたExcelの報告基準日はTODAY()が設定されています。
+必要に応じて書き換えてください。
